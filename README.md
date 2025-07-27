@@ -25,3 +25,28 @@ my_portfolio/
 │   ├── utils/
 │   └── App.jsx
 └── package.json
+
+✨ Features
+🚀 Smooth 3D animations using Three.js
+
+📱 Responsive design across all devices
+
+💼 Modular sections: About, Projects, Experience, Skills, Contact
+
+🎨 Styled with Tailwind CSS + custom animations
+
+🔗 Social links and project showcase
+
+🧠 What I Learned
+Creating interactive UIs with React and Tailwind
+
+Integrating 3D graphics with Three.js
+
+Handling component-based design efficiently
+
+Deploying modern frontend apps using GitHub & CI/CD
+
+📬 Contact
+📧 kritikavaryani@gmail.com
+🌐 LinkedIn
+🐙 GitHub
